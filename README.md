@@ -67,7 +67,8 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
   - tumeric_legacy.go
   - waterfall_developmental.py
   - waterfall_legacy.py
-
+  - licensing.txt   <----------------------- copyleft
+  - XXX
 
 
 ### Links
