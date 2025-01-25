@@ -68,3 +68,26 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
   - waterfall_developmental.py
   - waterfall_legacy.py
 
+
+
+### Links
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
+
+### HTML IMGAE
+<figure>
+    <img src="/assets/images/albuquerque.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
+### NoN-HTML
+![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
+*A single track trail outside of Albuquerque, New Mexico.*
+
+###
+
+ 
