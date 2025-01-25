@@ -1,7 +1,7 @@
 
 # 🚀 Powerful_Furries_In_Walnut_Rompers
 
-> **"Transforming Ideas into Code"**
+> **"Jelly is not a sufficent Dinner"**
 
 --- double
 
