@@ -40,15 +40,17 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Languages Used](#languages-used)
-4. [Important Notes](#important-notes)
-5. [Contributing](#contributing)
-6. [Acknowledgements](#acknowledgements)
+2. [Prerequisites](#prerequisites)
+3. [Setup](#setup)
+4. [FilesTree](#filestree)
+5. [Links](#links)
+6. [MORELINKS](#morelinks)
+7. [HTMLIMGAE](#htmlimgae)
+8. [NoNHTML](#nonhtml)
 
 ## Installation
 
-### Prerequisites:
+### Prerequisites
 - A compatible operating system (Windows, Linux, macOS, etc.)
 - Installed interpreters or compilers for the respective languages used in the project:
   - WinBatch
@@ -58,7 +60,7 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
   - PowerShell
   - Go
 
-### Setup:
+### Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/projectname.git
@@ -68,7 +70,7 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
 
 
 
-### Files Tree:
+### FilesTree
   - bones_developmental.c
   - bones_legacy.c
   - clickme.html
@@ -92,15 +94,21 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
 <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
+### MORELINKS
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
-### HTML IMGAE
+
+### HTMLIMGAE
 <figure>
     <img src="/assets/images/albuquerque.jpg"
          alt="Albuquerque, New Mexico">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
 
-### NoN-HTML
+### NoNHTML
 ![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
 *A single track trail outside of Albuquerque, New Mexico.*
 
