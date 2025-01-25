@@ -48,3 +48,23 @@ This project is for experimental use. It utilizes older, possibly unsupported, c
    ```bash
    git clone https://github.com/yourusername/projectname.git
    cd projectname
+
+
+
+
+
+### Files Tree:
+  - bones_developmental.c
+  - bones_legacy.c
+  - clickme.html
+  - clickme2.htm
+  - ghetto.bat
+  - ghetto_developmental.ps1
+  - ghetto_legacy.ps1
+  - skihill_developmental.sh
+  - skihill_legacy.sh
+  - tumeric_developmental.go
+  - tumeric_legacy.go
+  - waterfall_developmental.py
+  - waterfall_legacy.py
+
